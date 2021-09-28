@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arthur-Alves-BR
 - 👀 I’m interested in embedded systems, automation and web development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python and CSS
 - 📫 My email: arthuralves2p@gmail.com
 
 <!---
