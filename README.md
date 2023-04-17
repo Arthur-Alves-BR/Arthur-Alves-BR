@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arthur-Alves-BR
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Fast-API
 - 📫 My email: arthuralves2p@gmail.com
 
 <!---
