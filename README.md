@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arthur-Alves-BR
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in backend development
+- 🌱 I'm currently studying python in depth
 - 📫 My email: arthuralves2p@gmail.com
 
 <!---
